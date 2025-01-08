@@ -1,0 +1,19 @@
+{
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

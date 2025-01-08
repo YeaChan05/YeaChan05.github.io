@@ -3,12 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 # - type: rss
 #   icon: "fas fa-rss"
@@ -21,7 +21,7 @@
 #
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/%EC%98%88%EC%B0%AC-%EC%8B%A0-6260a22bb/'                  # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

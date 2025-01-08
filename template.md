@@ -1,9 +1,20 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+title: <%*
+  let userTitle = await tp.system.prompt("새 게시물의 제목을 입력하세요");
+  if (!userTitle) {
+    userTitle = "new-post";
+  }
+
+  let hyphenTitle = userTitle.replace(/\s+/g, "-");
+
+  tR += hyphenTitle;
+%>
+date: <% tp.date.now("YYYY-MM-DD") %>
+categories: 
+tags:
 ---
-categories: [Animal, Insect]
-tags: [bee]
----
+
+<%*
+  const newFileName = `${tp.date.now("YYYY-MM-DD")}-${hyphenTitle}`;
+  tR += await tp.file.rename(newFileName);
+%>

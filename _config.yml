@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Debugman # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 찍어보고 넘어가자 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -33,10 +33,9 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: 신예찬
+  email: qkenrdl05@gmail.com # change to your email address
   links:
-
     - https://github.com/YeaChan05 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -57,7 +56,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-W2RF9HPFMC
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -96,14 +95,18 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/88381563?s=400&u=623a5192a6a472c1461a9a55a32a98171ee96ea5&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://avatars.githubusercontent.com/u/88381563?s=400&u=623a5192a6a472c1461a9a55a32a98171ee96ea5&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+
+image:
+  path: /assets/img/
+  alt: image alternative text
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
@@ -148,7 +151,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://yeachan05.github.io/"
+# baseurl: "https://yeachan05.github.io/"
+# baseurl: "http://127.0.0.1:4000/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -213,6 +217,7 @@ exclude:
   - purgecss.js
   - rollup.config.js
   - "package*.json"
+  - template.md
 
 jekyll-archives:
   enabled: [categories, tags]

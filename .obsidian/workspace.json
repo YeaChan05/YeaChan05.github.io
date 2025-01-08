@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "3529eb18448c7901",
+    "type": "split",
+    "children": [
+      {
+        "id": "48202e1ef57a0b9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47de90b71d845d69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1608cd0a78da2a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "6713f4743322dfec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88337bc3d9df1c94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "31afb9d7248e2221",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b9681734f735a88f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0e87bc34c0687e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f36dea26dab28aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77fbdd7aa6718381",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d67b442669b1206d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "template의 백링크"
+            }
+          },
+          {
+            "id": "1076faf08a3b2480",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "template의 나가는 링크"
+            }
+          },
+          {
+            "id": "746a277b8f183b06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "template.md"
+              },
+              "icon": "lucide-list",
+              "title": "template 개요"
+            }
+          },
+          {
+            "id": "2df0eb9cf682acdf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
+            }
+          },
+          {
+            "id": "961b85b86ae1918c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:그래프 뷰 열기": false,
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "88337bc3d9df1c94",
+  "lastOpenFiles": [
+    "README.md",
+    "_posts/1998-05-28-test-post.md",
+    "_site/assets/img/Pasted image 20250108181522.png",
+    "assets/img/Pasted image 20250108181522.png",
+    "_site/tags/bb/index.html",
+    "_site/tags/bb",
+    "_site/tags/aa/index.html",
+    "_site/tags/aa",
+    "_site/categories/asd/index.html",
+    "_site/categories/asd",
+    "_site/posts/test-post/index.html",
+    "_site/posts/test-post",
+    "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
+    "template.md",
+    "_site/categories/das/index.html",
+    "_site/categories/das",
+    "2025-01-08-zzz.md",
+    "das.md",
+    "_site/das.md",
+    "_site/무제 파일.md",
+    "2025-01-08-dasd.md",
+    "_site/Untitled.md",
+    "2025-01-08-ㅇㅁㄴㅇㄴ-zzz.md",
+    "2025-01-08.md",
+    "_site/2025-01-08.md",
+    "2025-01-08-asd.md",
+    "2025-01-08-asdsa.md",
+    "_site/2025-01-08-asdsa.md",
+    "2025-01-08-new-post.md",
+    "2025-01-08-ㅁㅇㄴ.md",
+    "_site/2025-01-08-new-post.md",
+    "_site/2025-01-08-ㅁㅇㄴ.md",
+    "2025-01-08-null.md",
+    "2025-01-08-asdsadsa.md",
+    "2025-01-08-test-post.md",
+    "asdsa.md",
+    "_site/assets/lib/favicons/web-app-manifest-512x512.png",
+    "_site/assets/lib/favicons/web-app-manifest-192x192.png",
+    "_site/assets/lib/favicons/favicon.svg",
+    "_site/assets/lib/favicons/favicon-96x96.png",
+    "_site/assets/lib/favicons/apple-touch-icon.png",
+    "assets/lib/favicons/web-app-manifest-512x512.png",
+    "assets/lib/favicons/web-app-manifest-192x192.png",
+    "assets/lib/favicons/favicon-96x96.png"
+  ]
+}
