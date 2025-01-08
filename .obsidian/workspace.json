@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "48202e1ef57a0b9d",
+        "id": "3772c9f55c0e73e5",
         "type": "tabs",
         "children": [
           {
-            "id": "47de90b71d845d69",
+            "id": "832b8477c656caaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "image",
+              "state": {
+                "file": "assets/img/favicons/apple-touch-icon.png"
+              },
+              "icon": "lucide-image",
+              "title": "apple-touch-icon"
             }
           }
         ]
@@ -179,32 +181,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "88337bc3d9df1c94",
+  "active": "832b8477c656caaa",
   "lastOpenFiles": [
+    "assets/img/favicons/favicon.svg",
+    "assets/img/favicons/favicon-96x96.png",
+    "assets/img/favicons/favicon.ico",
     "_site/assets/img/favicons/web-app-manifest-512x512.png",
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
     "_site/assets/img/favicons/favicon-96x96.png",
-    "_site/assets/img/favicons/Pasted image 20250108181522.png",
+    "_site/assets/img/favicons/favicon copy.ico",
+    "assets/img/favicons/web-app-manifest-512x512.png",
+    "assets/img/favicons/web-app-manifest-192x192.png",
+    "assets/img/favicons/favicon copy.ico",
+    "assets/img/favicons/apple-touch-icon.png",
+    "template.md",
+    "_site/assets/img/favicons/web-app-manifest-512x512 1.png",
+    "_site/assets/img/favicons/template.html",
+    "_site/site.webmanifest",
+    "_site/favicon.ico",
+    "site.webmanifest",
+    "favicon.ico",
+    "assets/img/posts",
     "assets/img/favicons",
     "_posts/1998-05-28-test-post.md",
     "README.md",
-    "_site/assets/img/Pasted image 20250108181522.png",
-    "assets/img/favicons/Pasted image 20250108181522.png",
-    "_site/tags/bb/index.html",
-    "_site/tags/bb",
-    "_site/tags/aa/index.html",
-    "_site/tags/aa",
-    "_site/categories/asd/index.html",
-    "_site/categories/asd",
-    "_site/posts/test-post/index.html",
-    "_site/posts/test-post",
     "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
-    "template.md",
-    "_site/categories/das/index.html",
     "2025-01-08-zzz.md",
     "das.md",
     "_site/das.md",
@@ -224,10 +230,6 @@
     "2025-01-08-null.md",
     "2025-01-08-asdsadsa.md",
     "2025-01-08-test-post.md",
-    "asdsa.md",
-    "_site/assets/lib/favicons/web-app-manifest-512x512.png",
-    "_site/assets/lib/favicons/web-app-manifest-192x192.png",
-    "_site/assets/lib/favicons/favicon.svg",
-    "_site/assets/lib/favicons/favicon-96x96.png"
+    "asdsa.md"
   ]
 }
