@@ -3,7 +3,7 @@
   "attachmentFolderPath": "assets/img/posts",
   "newLinkFormat": "absolute",
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "_posts",
   "showLineNumber": true,
   "strictLineBreaks": false,

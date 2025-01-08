@@ -138,8 +138,8 @@ jekyll serve
 ```
 
 
+![](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg)
 
-![localhost:4000 화면](_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg)_localhost:4000 화면_
 
 ### 4. 옵시디언 세팅
 
