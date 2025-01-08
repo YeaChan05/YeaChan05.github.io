@@ -182,12 +182,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "961b85b86ae1918c",
+  "active": "88337bc3d9df1c94",
   "lastOpenFiles": [
+    "_site/assets/img/favicons/web-app-manifest-512x512.png",
+    "_site/assets/img/favicons/web-app-manifest-192x192.png",
+    "_site/assets/img/favicons/favicon.svg",
+    "_site/assets/img/favicons/favicon-96x96.png",
+    "_site/assets/img/favicons/Pasted image 20250108181522.png",
+    "assets/img/favicons",
     "_posts/1998-05-28-test-post.md",
     "README.md",
     "_site/assets/img/Pasted image 20250108181522.png",
-    "assets/img/Pasted image 20250108181522.png",
+    "assets/img/favicons/Pasted image 20250108181522.png",
     "_site/tags/bb/index.html",
     "_site/tags/bb",
     "_site/tags/aa/index.html",
@@ -199,7 +205,6 @@
     "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
     "template.md",
     "_site/categories/das/index.html",
-    "_site/categories/das",
     "2025-01-08-zzz.md",
     "das.md",
     "_site/das.md",
@@ -223,10 +228,6 @@
     "_site/assets/lib/favicons/web-app-manifest-512x512.png",
     "_site/assets/lib/favicons/web-app-manifest-192x192.png",
     "_site/assets/lib/favicons/favicon.svg",
-    "_site/assets/lib/favicons/favicon-96x96.png",
-    "_site/assets/lib/favicons/apple-touch-icon.png",
-    "assets/lib/favicons/web-app-manifest-512x512.png",
-    "assets/lib/favicons/web-app-manifest-192x192.png",
-    "assets/lib/favicons/favicon-96x96.png"
+    "_site/assets/lib/favicons/favicon-96x96.png"
   ]
 }
