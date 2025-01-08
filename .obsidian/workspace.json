@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "825c338594c4506c",
+        "id": "75e1209a03db57aa",
         "type": "tabs",
         "children": [
           {
-            "id": "48ccac69beccac83",
+            "id": "a7eb3570de2d4900",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,19 +178,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "48ccac69beccac83",
+  "active": "961b85b86ae1918c",
   "lastOpenFiles": [
-    "_posts/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
-    "_posts/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
+    "_posts/890442e1a3b032f2849ada1f56fc0191_MD5.jpeg",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
-    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
-    "_site/assets/img/posts/Pasted image 20250108231656.png",
-    "assets/img/posts/Pasted image 20250108231656.png",
-    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
-    "_site/assets/img/posts/Pasted image 20250108231411.png",
-    "assets/img/posts/Pasted image 20250108231411.png",
+    "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
+    "_posts/59e3fb9d9d4ded837b844eda22f72d04_MD5.jpeg",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/59e3fb9d9d4ded837b844eda22f72d04_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/59e3fb9d9d4ded837b844eda22f72d04_MD5.jpeg",
+    "_site/assets/img/posts/Pasted image 20250109002637.png",
+    "assets/img/posts/Pasted image 20250109002637.png",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/f74aa5aff495e78af11c25ed600c9857_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/f74aa5aff495e78af11c25ed600c9857_MD5.jpeg",
+    "_posts/f74aa5aff495e78af11c25ed600c9857_MD5.jpeg",
+    "_site/assets/img/posts/Pasted image 20250109002413.png",
+    "template.md",
     "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_site/assets/img/posts",
@@ -204,7 +206,6 @@
     "_site/posts/Obsidian과-Github-Blog-연동하기",
     "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "_posts/2025-01-08-new-post.md",
-    "template.md",
     "_posts/1998-05-28-test-post.md",
     "README.md",
     "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",

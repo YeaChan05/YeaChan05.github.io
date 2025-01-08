@@ -40,11 +40,8 @@ velog에경우 이미지 업로드시 곧바로 CDN에 업로드 되는 형태�
 
 사실 IDE처럼 외부 도구를 추가하도록 plugin 추가가 가능하다면 너무 좋을텐데 아직까지는 그렇지 않은거같다
 
-\
-\
-\
-\
-	
+<br><br><br><br>
+
 ### 결국은 그냥 편해서
 
 
@@ -66,12 +63,7 @@ velog에경우 이미지 업로드시 곧바로 CDN에 업로드 되는 형태�
 글을 작성하고 commit push하면 Github에 작성한 글이 올라가고, Github Actions가 돌아 Jekyll을 build해 웹페이지로 글을 올린다
 
 
-\
-\
-\
-\
-\
-	
+<br><br><br><br><br>
 ### 1. Jekyll 테마 다운로드
 
 일단 테마부터 구경해보자
@@ -93,9 +85,7 @@ http://jekyllthemes.org/
 
 starter나 github template를 지원해주는 경우에는 압축파일 다운로드 말고 Github 저장소를 생성할때 연결해도 좋다
 
-\
-\
-	
+<br><br><br>
 
 
 ### 2. Github Pages 생성
@@ -113,10 +103,101 @@ settings로 와보면 Pages라는 섹션이 있다
 내부로 들어가 Build and deployment를 Github Actions로 선택해주자
 
 
-\
-\
-\
-\
-	
+<br><br><br>
 
-### 
+### 3. 프로젝트 구성
+이제 옵시디언에 Vault를 만들고 압축한 파일을 해당 Vault 위치에 해제한다
+
+
+![프로젝트 구조](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/6b1ce9e13afeb8d682bc23a4bea8f20b_MD5.jpeg)_프로젝트 구조_
+
+
+여기서 필요한 설정값들은 각 테마마다 설정 방식이 달라 생략하도록 하겠다
+
+기본적으로 프로젝트 루트의 `_config.yml`에 설정값을 작성하는 편이더라
+
+이후 [Ruby](https://www.ruby-lang.org/ko/documentation/installation/)를 설치한다(jekyll이  ruby 기반인거 같다)
+
+```sh
+brew install rbenv
+echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+
+rbenv install 3.4.1
+rbenv global 3.4.1
+
+bundler install
+
+```
+
+
+
+그리고는 서비스를 로컬에서 실행해보자
+
+```sh
+jekyll serve
+```
+
+
+
+![localhost:4000 화면](_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg)_localhost:4000 화면_
+
+### 4. 옵시디언 세팅
+
+아래의 세 plugin이 필요하다
+- [Git](obsidian://show-plugin?id=obsidian-git): 변경사항 버전관리 자동화
+- [Local Images Plus](obsidian://show-plugin?id=obsidian-local-images-plus): 캡쳐 이미지를 따로 보관
+- [Templater](obsidian://show-plugin?id=templater-obsidian): 템플릿 명령어로 다양하게 처리
+
+
+
+![](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/890442e1a3b032f2849ada1f56fc0191_MD5.jpeg)
+Git plugin같은 경우 자동 커밋 시간 정도만 지정해준다
+
+
+![](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/f74aa5aff495e78af11c25ed600c9857_MD5.jpeg)
+Local Images Plus는 붙여넣기 했을때 이미지 파일이 저장되어야할 위치로 지정해준다
+
+지정해주지 않는다면 프로젝트가 이미지 파일 경로를 정상적으로 인식 못할수도 있으니 주의하자
+
+마지막으로 포스팅 템플릿을 만들어보자
+
+템플릿 문법은 [공식문서](https://silentvoid13.github.io/Templater/)에 잘 나와있다
+
+```markdown
+---
+
+title: <%*
+let userTitle = await tp.system.prompt("새 게시물의 제목을 입력하세요");
+if (!userTitle) {
+userTitle = "new-post";
+}
+let hyphenTitle = userTitle.replace(/\s+/g, "-");
+tR += hyphenTitle;
+%>
+date: <% tp.date.now("YYYY-MM-DD") %>
+categories:
+tags:
+---
+<%*
+const newFileName = `${tp.date.now("YYYY-MM-DD")}-${hyphenTitle}`;
+tR += await tp.file.rename(newFileName);
+%>
+```
+
+
+간략하게 설명하자면, 파일 생성시에 사용자에게 파일명을 먼저 입력받아 파일을 완성하는데, 이때 파일 제목은 YYYY-MM-DD-제목으로 작성한다(공백은 하이픈으로 대체한다)
+
+위와같이 제목을 작성하는 이유는 jekyll에서 지정한 [포스팅 파일 양식](https://jekyllrb.com/docs/posts/)이니 따라야 한다
+
+
+![](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/59e3fb9d9d4ded837b844eda22f72d04_MD5.jpeg)
+이제 여기에 단축키 설정까지 한다면 완벽하다
+
+<br><br><br><br><br>
+
+>[Chirpy Jekyll Thema](https://github.com/cotes2020/jekyll-theme-chirpy)
+>
+>[Jekyll Docs](https://jekyllrb.com/docs/)
+>
+>[Github Blog를 위한 Obsidian Settings](https://a2256014.github.io/dev/2024/12/01/Obsidian-Settings.html)
+
