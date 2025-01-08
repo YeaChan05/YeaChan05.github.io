@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "file": "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,6 +191,9 @@
   "active": "57c3baebca22fb93",
   "lastOpenFiles": [
     "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_site/assets/img/posts",
     "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_posts/assets/img/posts",
     "_posts/assets/img",
@@ -200,11 +203,9 @@
     "_posts/2025-01-08-new-post.md",
     "_site/posts/new-post/index.html",
     "_site/posts/new-post",
-    "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "_site/tags/일상/index.html",
     "_site/tags/일상",
     "_site/tags/문서/index.html",
-    "_site/tags/문서",
     "assets/img/favicons/apple-touch-icon.png",
     "assets/img/favicons/favicon.svg",
     "assets/img/favicons/favicon-96x96.png",
@@ -212,7 +213,6 @@
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
     "_site/assets/img/favicons/favicon-96x96.png",
-    "assets/img/favicons/web-app-manifest-512x512.png",
     "template.md",
     "_posts/1998-05-28-test-post.md",
     "README.md",
@@ -234,7 +234,6 @@
     "_site/2025-01-08-new-post.md",
     "_site/2025-01-08-ㅁㅇㄴ.md",
     "2025-01-08-null.md",
-    "2025-01-08-asdsadsa.md",
-    "2025-01-08-test-post.md"
+    "2025-01-08-asdsadsa.md"
   ]
 }
