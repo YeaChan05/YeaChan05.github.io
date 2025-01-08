@@ -4,5 +4,8 @@
   "newLinkFormat": "relative",
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_posts"
+  "newFileFolderPath": "_posts",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": true
 }

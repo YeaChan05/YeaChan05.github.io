@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3772c9f55c0e73e5",
+        "id": "ddf6bfcfbb58a5d4",
         "type": "tabs",
         "children": [
           {
-            "id": "832b8477c656caaa",
+            "id": "57c3baebca22fb93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/favicons/apple-touch-icon.png"
+                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "apple-touch-icon"
+              "icon": "lucide-file",
+              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기"
             }
           }
         ]
@@ -185,30 +188,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "88337bc3d9df1c94",
+  "active": "57c3baebca22fb93",
   "lastOpenFiles": [
-    "_site/ads.txt",
-    "ads.txt",
+    "_posts/2025-01-08-new-post.md",
+    "_site/posts/new-post/index.html",
+    "_site/posts/new-post",
+    "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_site/tags/일상/index.html",
+    "_site/tags/일상",
+    "_site/tags/문서/index.html",
+    "_site/tags/문서",
+    "_site/categories/ect/index.html",
+    "_site/categories/ect",
+    "_site/posts/Obsidian과-Github-Blog-연동하기/index.html",
+    "_site/posts/Obsidian과-Github-Blog-연동하기",
+    "assets/img/favicons/apple-touch-icon.png",
     "assets/img/favicons/favicon.svg",
     "assets/img/favicons/favicon-96x96.png",
-    "assets/img/favicons/favicon.ico",
     "_site/assets/img/favicons/web-app-manifest-512x512.png",
     "_site/assets/img/favicons/web-app-manifest-192x192.png",
     "_site/assets/img/favicons/favicon.svg",
     "_site/assets/img/favicons/favicon-96x96.png",
-    "_site/assets/img/favicons/favicon copy.ico",
     "assets/img/favicons/web-app-manifest-512x512.png",
     "assets/img/favicons/web-app-manifest-192x192.png",
-    "assets/img/favicons/favicon copy.ico",
-    "assets/img/favicons/apple-touch-icon.png",
     "template.md",
     "_site/assets/img/favicons/web-app-manifest-512x512 1.png",
-    "_site/assets/img/favicons/template.html",
-    "_site/site.webmanifest",
-    "_site/favicon.ico",
-    "site.webmanifest",
-    "favicon.ico",
-    "assets/img/posts",
     "_posts/1998-05-28-test-post.md",
     "README.md",
     "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
@@ -230,7 +234,6 @@
     "_site/2025-01-08-ㅁㅇㄴ.md",
     "2025-01-08-null.md",
     "2025-01-08-asdsadsa.md",
-    "2025-01-08-test-post.md",
-    "asdsa.md"
+    "2025-01-08-test-post.md"
   ]
 }
