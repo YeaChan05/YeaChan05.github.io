@@ -185,8 +185,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "832b8477c656caaa",
+  "active": "88337bc3d9df1c94",
   "lastOpenFiles": [
+    "_site/ads.txt",
+    "ads.txt",
     "assets/img/favicons/favicon.svg",
     "assets/img/favicons/favicon-96x96.png",
     "assets/img/favicons/favicon.ico",
@@ -207,7 +209,6 @@
     "site.webmanifest",
     "favicon.ico",
     "assets/img/posts",
-    "assets/img/favicons",
     "_posts/1998-05-28-test-post.md",
     "README.md",
     "_posts/YYYY-MM-DD-TITLE.EXTENSION.md",
