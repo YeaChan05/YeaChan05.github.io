@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf6bfcfbb58a5d4",
+        "id": "825c338594c4506c",
         "type": "tabs",
         "children": [
           {
-            "id": "57c3baebca22fb93",
+            "id": "48ccac69beccac83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,20 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template.md"
+                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md"
               },
               "icon": "lucide-list",
-              "title": "template 개요"
-            }
-          },
-          {
-            "id": "2df0eb9cf682acdf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기 개요"
             }
           },
           {
@@ -167,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,31 +178,32 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "57c3baebca22fb93",
+  "active": "48ccac69beccac83",
   "lastOpenFiles": [
-    "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
-    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_posts/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
+    "_posts/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
+    "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/43ba9c43bdf6ded60e4345ec4c586893_MD5.jpeg",
+    "_site/assets/img/posts/Pasted image 20250108231656.png",
+    "assets/img/posts/Pasted image 20250108231656.png",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/222edcf79f354ff56bad72f44f52b692_MD5.jpeg",
+    "_site/assets/img/posts/Pasted image 20250108231411.png",
+    "assets/img/posts/Pasted image 20250108231411.png",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_site/assets/img/posts",
-    "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
+    "_posts/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg.md",
     "_posts/assets/img/posts",
     "_posts/assets/img",
     "_posts/assets",
-    "_site/assets/img/Pasted image 20250108214556.png",
-    "assets/img/Pasted image 20250108214556.png",
+    "_site/attachments",
+    "attachments",
+    "_site/posts/Obsidian과-Github-Blog-연동하기/index.html",
+    "_site/posts/Obsidian과-Github-Blog-연동하기",
+    "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "_posts/2025-01-08-new-post.md",
-    "_site/posts/new-post/index.html",
-    "_site/posts/new-post",
-    "_site/tags/일상/index.html",
-    "_site/tags/일상",
-    "_site/tags/문서/index.html",
-    "assets/img/favicons/apple-touch-icon.png",
-    "assets/img/favicons/favicon.svg",
-    "assets/img/favicons/favicon-96x96.png",
-    "_site/assets/img/favicons/web-app-manifest-512x512.png",
-    "_site/assets/img/favicons/web-app-manifest-192x192.png",
-    "_site/assets/img/favicons/favicon.svg",
-    "_site/assets/img/favicons/favicon-96x96.png",
     "template.md",
     "_posts/1998-05-28-test-post.md",
     "README.md",
@@ -233,7 +224,6 @@
     "2025-01-08-ㅁㅇㄴ.md",
     "_site/2025-01-08-new-post.md",
     "_site/2025-01-08-ㅁㅇㄴ.md",
-    "2025-01-08-null.md",
-    "2025-01-08-asdsadsa.md"
+    "2025-01-08-null.md"
   ]
 }

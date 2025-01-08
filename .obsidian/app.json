@@ -1,11 +1,12 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "assets/img",
-  "newLinkFormat": "relative",
+  "attachmentFolderPath": "assets/img/posts",
+  "newLinkFormat": "absolute",
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
   "showLineNumber": true,
   "strictLineBreaks": false,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true
 }
