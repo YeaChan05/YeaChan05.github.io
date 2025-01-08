@@ -167,27 +167,83 @@ Local Images Plus는 붙여넣기 했을때 이미지 파일이 저장되어야�
 ---
 
 title: <%*
+
 let userTitle = await tp.system.prompt("새 게시물의 제목을 입력하세요");
+
 if (!userTitle) {
+
 userTitle = "new-post";
+
 }
+
+  
+
 let hyphenTitle = userTitle.replace(/\s+/g, "-");
+
+  
+
 tR += hyphenTitle;
+
 %>
+
 date: <% tp.date.now("YYYY-MM-DD") %>
+
 categories:
+
 tags:
+
 ---
+
+  
+
 <%*
+
 const newFileName = `${tp.date.now("YYYY-MM-DD")}-${hyphenTitle}`;
+
 tR += await tp.file.rename(newFileName);
+
 %>
+
+  
+
+<script src="https://giscus.app/client.js"
+
+data-repo="YeaChan05/YeaChan05.github.io"
+
+data-repo-id="********"
+
+data-category="Announcements"
+
+data-category-id="**********"
+
+data-mapping="pathname"
+
+data-strict="0"
+
+data-reactions-enabled="1"
+
+data-emit-metadata="0"
+
+data-input-position="bottom"
+
+data-theme="preferred_color_scheme"
+
+data-lang="ko"
+
+crossorigin="anonymous"
+
+async>
+
+</script>
 ```
 
 
 간략하게 설명하자면, 파일 생성시에 사용자에게 파일명을 먼저 입력받아 파일을 완성하는데, 이때 파일 제목은 YYYY-MM-DD-제목으로 작성한다(공백은 하이픈으로 대체한다)
 
 위와같이 제목을 작성하는 이유는 jekyll에서 지정한 [포스팅 파일 양식](https://jekyllrb.com/docs/posts/)이니 따라야 한다
+
+또, 아래에 스크립트가 보일텐데 Github Discussion으로 작동하는 댓글 라이브러리인 [giscus](https://giscus.app/ko)이다
+
 
 
 ![](assets/img/posts/2025-01-08-Obsidian%EA%B3%BC-Github-Blog-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/59e3fb9d9d4ded837b844eda22f72d04_MD5.jpeg)
@@ -200,4 +256,23 @@ tR += await tp.file.rename(newFileName);
 >[Jekyll Docs](https://jekyllrb.com/docs/)
 >
 >[Github Blog를 위한 Obsidian Settings](https://a2256014.github.io/dev/2024/12/01/Obsidian-Settings.html)
+>
+>[Chirpy 테마로 GitHub 블로그 만들기 ④](https://jason9288.github.io/posts/github_blog_4/)
 
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="YeaChan05/YeaChan05.github.io"
+        data-repo-id="R_kgDONnXleQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDONnXlec4Cl2a5"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+</script>
