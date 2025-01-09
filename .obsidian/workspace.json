@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75e1209a03db57aa",
+        "id": "833165e0402964e8",
         "type": "tabs",
         "children": [
           {
-            "id": "a7eb3570de2d4900",
+            "id": "dfe980318a1e3787",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "template"
+              "title": "새 탭"
             }
           }
         ]
@@ -139,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "template.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "template 개요"
+              "title": "개요"
             }
           },
           {
@@ -174,16 +167,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.0\r\nLocalize attachments (plugin folder)": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a7eb3570de2d4900",
+  "active": "dfe980318a1e3787",
   "lastOpenFiles": [
+    "template.md",
     "_includes/head.html",
     "_includes",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
-    "template.md",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "assets/img/posts/Pasted image 20250109005128.png",
@@ -205,7 +197,6 @@
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_site/assets/img/posts",
     "_posts/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg.md",
-    "_site/attachments",
     "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "_posts/2025-01-08-new-post.md",
     "_posts/1998-05-28-test-post.md",
