@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "file": "template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기"
+              "title": "template"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md"
+                "file": "template.md"
               },
               "icon": "lucide-list",
-              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기 개요"
+              "title": "template 개요"
             }
           },
           {
@@ -180,8 +180,8 @@
   },
   "active": "a7eb3570de2d4900",
   "lastOpenFiles": [
-    "template.md",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "template.md",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "assets/img/posts/Pasted image 20250109005128.png",
