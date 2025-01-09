@@ -180,6 +180,8 @@
   },
   "active": "a7eb3570de2d4900",
   "lastOpenFiles": [
+    "_includes/head.html",
+    "_includes",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "template.md",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
@@ -204,7 +206,6 @@
     "_site/assets/img/posts",
     "_posts/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg.md",
     "_site/attachments",
-    "attachments",
     "_site/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "_posts/2025-01-08-new-post.md",
     "_posts/1998-05-28-test-post.md",
