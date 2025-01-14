@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "833165e0402964e8",
+        "id": "67037d98ba3e352d",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe980318a1e3787",
+            "id": "e908deb635f2a766",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,9 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dfe980318a1e3787",
+  "active": "88337bc3d9df1c94",
   "lastOpenFiles": [
-    "template.md",
+    "2025-01-09-new-post.md",
     "_includes/head.html",
     "_includes",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
