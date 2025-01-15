@@ -11,10 +11,15 @@
             "id": "e908deb635f2a766",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기"
             }
           }
         ]
@@ -170,16 +175,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "961b85b86ae1918c",
+  "active": "e908deb635f2a766",
   "lastOpenFiles": [
+    "2025-01-15-new-post.md",
+    "_site/2025-01-15-new-post.html",
     "2025-01-14-멀티모듈-with-gradle.md",
     "_site/posts/멀티모듈-with-gradle/index.html",
     "_site/posts/멀티모듈-with-gradle",
     "_posts/2025-01-14-멀티모듈-with-gradle.md",
-    "template.md",
     "_site/2025-01-14-멀티모듈-with-gradle.html",
     "sitemap.xml",
-    "2025-01-15-new-post.md",
     "_includes/head.html",
     "_includes",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
@@ -190,7 +195,6 @@
     "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_posts/assets/img/posts",
     "_posts/assets/img",
-    "_posts/assets",
     "assets/img/posts/Pasted image 20250109005101.png",
     "assets/img/posts/Pasted image 20250109005035.png",
     "assets/img/posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
