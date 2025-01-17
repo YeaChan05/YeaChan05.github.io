@@ -12,6 +12,11 @@ title: <%*
 date: <% tp.date.now("YYYY-MM-DD") %>
 categories: 
 tags:
+toc: true
+pin: true
+image:
+  path: 
+  alt: 
 sitemap :
   changefreq : daily
   priority : 1.0
