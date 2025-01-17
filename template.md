@@ -19,7 +19,6 @@ sitemap :
   priority : 1.0
 image:
   path: 
-  alt: 
 ---
 
 <%*

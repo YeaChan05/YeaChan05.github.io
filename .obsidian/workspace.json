@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,28 +176,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "961b85b86ae1918c",
+  "active": "e908deb635f2a766",
   "lastOpenFiles": [
-    "_site/assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
-    "assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
+    "_site/tags/spring/index.html",
+    "_site/tags/spring",
+    "_site/categories/springwebmvc/index.html",
+    "_site/categories/springwebmvc",
     "_site/posts/요청부터-응답까지/index.html",
     "_site/posts/요청부터-응답까지",
+    "_site/posts/2025-01-17-요청부터-응답까지/index.html",
+    "_site/posts/2025-01-17-요청부터-응답까지",
+    "template.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
+    "_config.yml",
+    "_site/assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
+    "assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지/0443b2f15c4893c5436632ed1194e4d3_MD5.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지",
     "_sass/addon/commons.scss",
-    "_sass/addon",
-    "_sass",
-    "_tabs/_sass",
-    "_posts/_sass",
-    "template.md",
-    "_posts/2025-01-17-요청부터-응답까지.md",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
-    "sitemap.xml",
     "assets/img/posts/2025-01-17-요청부터-응답까지/0443b2f15c4893c5436632ed1194e4d3_MD5.jpeg",
     "assets/img/posts/Pasted image 20250117155828.png",
     "assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
-    "assets/img/posts/2025-01-17-요청부터-응답까지",
     "assets/img/posts/Pasted image 20250117155811.png",
     "2025-01-17-Spring-WebMVC.md",
     "_posts/2025-01-14-멀티모듈-with-gradle.md",
@@ -204,7 +207,6 @@
     "2025-01-14-멀티모듈-with-gradle.md",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250109005128.png",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg.md",
     "assets/img/posts.md",
     "_posts/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg.md",
@@ -221,7 +223,6 @@
     "_site/Untitled.md",
     "2025-01-08-ㅇㅁㄴㅇㄴ-zzz.md",
     "2025-01-08.md",
-    "_site/2025-01-08.md",
-    "2025-01-08-asd.md"
+    "_site/2025-01-08.md"
   ]
 }
