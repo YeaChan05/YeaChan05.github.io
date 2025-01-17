@@ -14,12 +14,12 @@ categories:
 tags:
 toc: true
 pin: true
-image:
-  path: 
-  alt: 
 sitemap :
   changefreq : daily
   priority : 1.0
+image:
+  path: 
+  alt: 
 ---
 
 <%*
