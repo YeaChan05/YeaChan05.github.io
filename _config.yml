@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-# baseurl: "https://yeachan05.github.io/"
+baseurl: "https://yeachan05.github.io/"
 # baseurl: "http://127.0.0.1:4000/"
 
 # ------------ The following options are not recommended to be modified ------------------
@@ -230,3 +230,4 @@ jekyll-archives:
 
 plugins:
   - jekyll-sitemap
+   - jekyll-seo-tag
