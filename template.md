@@ -1,11 +1,26 @@
 ---
-title: 멀티모듈-with-gradle
-date: 2025-01-14
+title: <%*
+  let userTitle = await tp.system.prompt("새 게시물의 제목을 입력하세요");
+  if (!userTitle) {
+    userTitle = "new-post";
+  }
+
+  let hyphenTitle = userTitle.replace(/\s+/g, "-");
+
+  tR += hyphenTitle;
+%>
+date: <% tp.date.now("YYYY-MM-DD") %>
 categories: 
 tags:
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
-
+<%*
+  const newFileName = `${tp.date.now("YYYY-MM-DD")}-${hyphenTitle}`;
+  tR += await tp.file.rename(newFileName);
+%>
 
 
 <script src="https://giscus.app/client.js"

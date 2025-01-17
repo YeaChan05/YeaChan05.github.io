@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+                "file": "_posts/2025-01-17-요청부터-응답까지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-08-Obsidian과-Github-Blog-연동하기"
+              "title": "2025-01-17-요청부터-응답까지"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0e87bc34c0687e4",
@@ -159,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,30 +178,34 @@
   },
   "active": "e908deb635f2a766",
   "lastOpenFiles": [
+    "assets/img/posts/2025-01-17-요청부터-응답까지/0443b2f15c4893c5436632ed1194e4d3_MD5.jpeg",
+    "assets/img/posts/Pasted image 20250117155828.png",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지",
+    "assets/img/posts/Pasted image 20250117155811.png",
+    "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
+    "2025-01-17-Spring-WebMVC.md",
+    "template.md",
+    "_posts/2025-01-14-멀티모듈-with-gradle.md",
     "2025-01-15-new-post.md",
     "_site/2025-01-15-new-post.html",
     "2025-01-14-멀티모듈-with-gradle.md",
     "_site/posts/멀티모듈-with-gradle/index.html",
     "_site/posts/멀티모듈-with-gradle",
-    "_posts/2025-01-14-멀티모듈-with-gradle.md",
     "_site/2025-01-14-멀티모듈-with-gradle.html",
     "sitemap.xml",
     "_includes/head.html",
     "_includes",
-    "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "assets/img/posts/Pasted image 20250109005128.png",
     "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
     "_posts/assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기",
     "_posts/assets/img/posts",
-    "_posts/assets/img",
     "assets/img/posts/Pasted image 20250109005101.png",
     "assets/img/posts/Pasted image 20250109005035.png",
     "assets/img/posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250109005002.png",
-    "assets/img/posts/Pasted image 20250109004901.png",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/f74aa5aff495e78af11c25ed600c9857_MD5.jpeg",
     "_posts/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg.md",
     "assets/img/posts.md",
     "_posts/b7c9d5d7df307f0bc71ac271444f5504_MD5.jpeg.md",
@@ -217,8 +223,6 @@
     "2025-01-08-ㅇㅁㄴㅇㄴ-zzz.md",
     "2025-01-08.md",
     "_site/2025-01-08.md",
-    "2025-01-08-asd.md",
-    "2025-01-08-asdsa.md",
-    "_site/2025-01-08-asdsa.md"
+    "2025-01-08-asd.md"
   ]
 }
