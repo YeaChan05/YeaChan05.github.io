@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-17-요청부터-응답까지.md",
+                "file": "template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-17-요청부터-응답까지"
+              "title": "template"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0e87bc34c0687e4",
@@ -178,6 +177,7 @@
   },
   "active": "e908deb635f2a766",
   "lastOpenFiles": [
+    "_posts/2025-01-17-요청부터-응답까지.md",
     "_site/tags/spring/index.html",
     "_site/tags/spring",
     "_site/categories/springwebmvc/index.html",
@@ -187,15 +187,12 @@
     "_site/posts/2025-01-17-요청부터-응답까지/index.html",
     "_site/posts/2025-01-17-요청부터-응답까지",
     "template.md",
-    "_posts/2025-01-17-요청부터-응답까지.md",
-    "_posts/2025-01-17-요청부터-응답까지.md",
     "_config.yml",
     "_site/assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
     "assets/img/1EC7B0E9-4809-4917-8556-78E2225D49FC_1_105_c.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지/0443b2f15c4893c5436632ed1194e4d3_MD5.jpeg",
     "_site/assets/img/posts/2025-01-17-요청부터-응답까지",
-    "_sass/addon/commons.scss",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "assets/img/posts/2025-01-17-요청부터-응답까지/0443b2f15c4893c5436632ed1194e4d3_MD5.jpeg",
     "assets/img/posts/Pasted image 20250117155828.png",
