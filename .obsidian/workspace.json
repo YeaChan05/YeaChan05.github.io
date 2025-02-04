@@ -15,14 +15,36 @@
               "state": {
                 "file": "_posts/2025-01-31-AWS-DynamoDB.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-01-31-AWS-DynamoDB"
             }
+          },
+          {
+            "id": "dbfb82faf0b7c26f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +187,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
-      "switcher:퀵 스위처 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
@@ -176,7 +198,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e908deb635f2a766",
+  "active": "dbfb82faf0b7c26f",
   "lastOpenFiles": [
     "_posts/2025-01-17-요청부터-응답까지.md",
     "_posts/2025-01-31-AWS-DynamoDB.md",
