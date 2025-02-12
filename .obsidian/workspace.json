@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-31-AWS-DynamoDB.md",
+                "file": "template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-31-AWS-DynamoDB"
-            }
-          },
-          {
-            "id": "dbfb82faf0b7c26f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -100,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e0e87bc34c0687e4",
@@ -198,10 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbfb82faf0b7c26f",
+  "active": "e908deb635f2a766",
   "lastOpenFiles": [
-    "_posts/2025-01-17-요청부터-응답까지.md",
     "_posts/2025-01-31-AWS-DynamoDB.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
     "assets/img/posts/2025-01-31-AWS-DynamoDB/3ae1eca91844b3fef96d987403c42639_MD5.jpeg",
     "assets/img/posts/2025-01-31-AWS-DynamoDB",
     "assets/img/posts/Pasted image 20250131190409.png",
