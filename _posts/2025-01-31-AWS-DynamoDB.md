@@ -56,12 +56,47 @@ DynamoDB는 논리적인 테이블 아래에 물리적으로 **파티션** 단�
 
 <br>
 <br>
-파티션별 제약조건
-- 초당 최대 1K 쓰기
-- 최대 10GB 데이터 저장
-- 초당 최대 3K 읽기
+
+### 용량 유닛
+- 프로비저닝 모드에서 동작 단위
+- WCU: 쓰기 용량 단위, 초당 1KB를 한번 쓸 수 있다
+- RCU: 읽기 용량 단위, 초당 4KB를 한번 읽을 수 있다.
 
-이러한 제약을 초과하면 DynamoDB는 자동으로 추가 파티션을 생성하여 부하를 분산한다.
+이때 읽기 방식에는 세가지가 있는데,
+- strongly consistent read: 항상 최신 데이터를 반환해야하기 때문에, 4 KB까지 1RCU 필요.
+- eventually consistent read: 즉각적 조회가 아니기에, 4 KB까지의 항목에 대해 0.5RCU 필요.
+- transactional read: 한번에 여러개를 동시에 읽고 수정 가능. 4 KB까지 2RCU 필요.
+
+용량유닛은 비용과 직결되니 필요한만큼 사용해야한다.
+
+
+하지만 나의 경우에는 요청 쇄도 시기를 정확히 측정하기에 어렵다고 생각되어 일단 온디맨드를 사용했다.
+
+
+### DynamoDB Key
+
+DynamoDB는 아이템을 식별하기 위해 Primary Key를 사용하는데, 이 Key에는 두가지 종류가 있다
+
+1. Partition Key
+	- 아이템의 저장 파티션을 결정짓는 요소로, 해싱되어 여러 파티션에 물리적으로 분산된다.
+	- 파티션을 지정해주는데에 필요하기에 필수적으로 요구된다
+2. Sort Key
+	- 복합 Primary Key를 구성하는 두번째 Key로, 필수적이지 않다
+	- 정렬이나 기타 DynamoDB에서 지원하는 조건에 사용 가능하다
+
+뿐만아니라 index도 존재한다
+DynamoDB에서는 이를 Secondary Indexes라 부른다
+- GSL(Global Secondary Index)
+	- 기본 테이블과 별도로 독립적인 Partition Key 및 Sort Key를 지정할 수 있는 인덱스
+	- 데이터 모델링의 유연성을 크게 높여주며, 다양한 쿼리 요구사항에 대응
+	- 기본적으로 eventual consistency(최종적 일관성)를 제공하지만, 옵션에 따라 강한 일관성을 선택 가능
+- LSI(Local Secondary Index)
+	- 기본 테이블 생성 시 함께 정의되어야 하며, 동일한 Partition Key를 공유하면서 다른 Sort Key를 제공하는 인덱스
+	- 테이블 생성 이후에는 생성 불가능
+	- 강한 일관성을 지원하며, 최신 데이터 기반 조회 가능
+
+
+
 ### DynamoDB Key 디자인 패턴
 
 
