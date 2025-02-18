@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template.md",
+                "file": "_posts/2025-01-31-AWS-DynamoDB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "2025-01-31-AWS-DynamoDB"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "•",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e0e87bc34c0687e4",
@@ -187,12 +189,13 @@
   },
   "active": "e908deb635f2a766",
   "lastOpenFiles": [
+    "template.md",
+    "_posts/2025-02-18-DynamoDB(feat.single-table-design).md",
     "_posts/2025-01-31-AWS-DynamoDB.md",
     "_posts/2025-01-17-요청부터-응답까지.md",
     "assets/img/posts/2025-01-31-AWS-DynamoDB/3ae1eca91844b3fef96d987403c42639_MD5.jpeg",
     "assets/img/posts/2025-01-31-AWS-DynamoDB",
     "assets/img/posts/Pasted image 20250131190409.png",
-    "template.md",
     "_site/tags/spring/index.html",
     "_site/tags/spring",
     "_site/categories/springwebmvc/index.html",
