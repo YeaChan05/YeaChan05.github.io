@@ -63,9 +63,9 @@ DynamoDB는 논리적인 테이블 아래에 물리적으로 **파티션** 단�
 - RCU: 읽기 용량 단위, 초당 4KB를 한번 읽을 수 있다.
 
 이때 읽기 방식에는 세가지가 있는데,
-- strongly consistent read: 항상 최신 데이터를 반환해야하기 때문에, 4 KB까지 1RCU 필요.
-- eventually consistent read: 즉각적 조회가 아니기에, 4 KB까지의 항목에 대해 0.5RCU 필요.
-- transactional read: 한번에 여러개를 동시에 읽고 수정 가능. 4 KB까지 2RCU 필요.
+- strongly consistent read: 항상 최신 데이터를 반환해야하기 때문에, 4KB까지 1RCU 필요.
+- eventually consistent read: 즉각적 조회가 아니기에, 4KB까지의 항목에 대해 0.5RCU 필요.
+- transactional read: 한번에 여러개를 동시에 읽고 수정 가능. 4KB까지 2RCU 필요.
 
 용량유닛은 비용과 직결되니 필요한만큼 사용해야한다.
 
@@ -86,7 +86,7 @@ DynamoDB는 아이템을 식별하기 위해 Primary Key를 사용하는데, 이
 
 뿐만아니라 index도 존재한다
 DynamoDB에서는 이를 Secondary Indexes라 부른다
-- GSL(Global Secondary Index)
+- GSI(Global Secondary Index)
 	- 기본 테이블과 별도로 독립적인 Partition Key 및 Sort Key를 지정할 수 있는 인덱스
 	- 데이터 모델링의 유연성을 크게 높여주며, 다양한 쿼리 요구사항에 대응
 	- 기본적으로 eventual consistency(최종적 일관성)를 제공하지만, 옵션에 따라 강한 일관성을 선택 가능
