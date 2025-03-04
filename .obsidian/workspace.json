@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "2025-01-31-AWS-DynamoDB"
             }
+          },
+          {
+            "id": "b2f4afad623e059b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e908deb635f2a766",
+  "active": "b2f4afad623e059b",
   "lastOpenFiles": [
     "template.md",
     "_posts/2025-02-18-DynamoDB(feat.single-table-design).md",
