@@ -11,10 +11,24 @@
             "id": "e908deb635f2a766",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-17-요청부터-응답까지.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-17-요청부터-응답까지"
             }
           }
         ]
@@ -174,6 +188,9 @@
   "active": "e908deb635f2a766",
   "lastOpenFiles": [
     "_posts/2025-01-31-AWS-DynamoDB.md",
+    "_posts/2025-04-13-Spring-MCP.md",
+    "_posts/무제.md",
+    "template.md",
     "2025-03-04-new-post.md",
     "_posts/2025-02-18-DynamoDB(feat.single-table-design).md",
     "_posts/2025-01-17-요청부터-응답까지.md",
@@ -215,9 +232,6 @@
     "_site/das.md",
     "_site/무제 파일.md",
     "2025-01-08-dasd.md",
-    "_site/Untitled.md",
-    "2025-01-08-ㅇㅁㄴㅇㄴ-zzz.md",
-    "2025-01-08.md",
-    "_site/2025-01-08.md"
+    "_site/Untitled.md"
   ]
 }
