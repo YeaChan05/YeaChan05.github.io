@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67037d98ba3e352d",
+        "id": "75d9ca25493ac58b",
         "type": "tabs",
         "children": [
           {
-            "id": "e908deb635f2a766",
+            "id": "012e3a77f069e577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-01-17-요청부터-응답까지.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-17-요청부터-응답까지"
+              "title": "새 탭"
             }
           }
         ]
@@ -184,21 +170,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e908deb635f2a766",
+  "active": "012e3a77f069e577",
   "lastOpenFiles": [
-    "_posts/2025-04-13-Spring-MCP.md",
-    "_posts/2025-01-17-요청부터-응답까지.md",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/bfbaee13cc7adf8571e2cb764f2c94e7_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250413223519.png",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/ccd126b9e59e78d6303528fb2f57d9ac_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250413222948.png",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/eea93b89816c0e467c1178ad459c5f60_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250413221202.png",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/b323a0bd00c62847a818d5bdb62ac7c5_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250413214316.png",
     "assets/img/posts/2025-01-17-요청부터-응답까지/b1597dd4492edd1ebf4202bdb727302d_MD5.jpeg",
-    "assets/img/posts/Pasted image 20250413213552.png",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/bfbaee13cc7adf8571e2cb764f2c94e7_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/da3a4e018ca75fae4a0b66a973834e39_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/ee589a5aed96cdf1d8cd72f954c071a6_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/eea93b89816c0e467c1178ad459c5f60_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/94cbec003ac79acb76eeed5a67feb694_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
+    "assets/img/posts/2025-01-17-요청부터-응답까지/1b73bdb74aab38ee6bfb0f9e9902c5e3_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/6b1ce9e13afeb8d682bc23a4bea8f20b_MD5.jpeg",
+    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
+    "assets/img/favicons/web-app-manifest-512x512.png",
     "_posts/2025-01-31-AWS-DynamoDB.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
+    "_posts/2025-04-13-Spring-MCP.md",
     "_posts/무제.md",
     "template.md",
     "2025-03-04-new-post.md",
