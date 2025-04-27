@@ -11,10 +11,24 @@
             "id": "012e3a77f069e577",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "template"
             }
           }
         ]
@@ -170,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "012e3a77f069e577",
+  "active": "961b85b86ae1918c",
   "lastOpenFiles": [
     "assets/img/posts/2025-01-17-요청부터-응답까지/b1597dd4492edd1ebf4202bdb727302d_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/bfbaee13cc7adf8571e2cb764f2c94e7_MD5.jpeg",
