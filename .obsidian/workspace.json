@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "2025-01-17-요청부터-응답까지"
             }
+          },
+          {
+            "id": "89bd4eba1e88422a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "012e3a77f069e577",
+  "active": "89bd4eba1e88422a",
   "lastOpenFiles": [
     "template.md",
     "assets/img/posts/2025-01-17-요청부터-응답까지/b1597dd4492edd1ebf4202bdb727302d_MD5.jpeg",
