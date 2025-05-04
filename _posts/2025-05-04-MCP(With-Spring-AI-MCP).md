@@ -98,7 +98,7 @@ MCP의 연결 과정 라이프사이클을 살펴보자
 
 ## Spring MCP
 
-![Pasted image 20250504162000](assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/Pasted%20image%2020250504162000.png)
+![](assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/Pasted%20image%2020250504162000.png)
 대강의 구조는 위와 같다
 
 사용자의 요청이 들어오면 필요에 따라 비즈니스 로직을 AI에 도움을 받는다
