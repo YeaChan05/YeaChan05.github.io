@@ -11,10 +11,24 @@
             "id": "62d0352bb18565fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-05-04-MCP(With-Spring-AI-MCP).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-05-04-MCP(With-Spring-AI-MCP)"
             }
           }
         ]
@@ -170,21 +184,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62d0352bb18565fb",
+  "active": "88337bc3d9df1c94",
   "lastOpenFiles": [
-    "_posts/2025-01-17-요청부터-응답까지.md",
+    "assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/Pasted image 20250504162000.png",
+    "assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/Pasted Image 20250504154933_492.png",
+    "assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/Pasted image 20250502152024.png",
+    "assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/b7c0de8bf7c9c1f244141b87773cde48_MD5.jpeg",
+    "assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)",
+    "assets/img/posts/Pasted image 20250504170958.png",
+    "assets/img/posts/as",
+    "_posts/2025-01-31-AWS-DynamoDB.md",
+    "_posts/2025-05-04-MCP(With-Spring-AI-MCP).md",
     "template.md",
+    "_posts/2025-01-17-요청부터-응답까지.md",
     "assets/img/posts/2025-01-17-요청부터-응답까지/b1597dd4492edd1ebf4202bdb727302d_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/bfbaee13cc7adf8571e2cb764f2c94e7_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/da3a4e018ca75fae4a0b66a973834e39_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/ee589a5aed96cdf1d8cd72f954c071a6_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/eea93b89816c0e467c1178ad459c5f60_MD5.jpeg",
     "assets/img/posts/2025-01-17-요청부터-응답까지/94cbec003ac79acb76eeed5a67feb694_MD5.jpeg",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/1a987fcc8050239687d3fd00e6a55ce8_MD5.jpeg",
-    "assets/img/posts/2025-01-17-요청부터-응답까지/1b73bdb74aab38ee6bfb0f9e9902c5e3_MD5.jpeg",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/6b1ce9e13afeb8d682bc23a4bea8f20b_MD5.jpeg",
-    "assets/img/posts/2025-01-08-Obsidian과-Github-Blog-연동하기/4c595e85ea355a672f6e484b70c559bb_MD5.jpeg",
-    "_posts/2025-01-31-AWS-DynamoDB.md",
     "_posts/2025-04-13-Spring-MCP.md",
     "_posts/무제.md",
     "2025-03-04-new-post.md",
@@ -197,8 +215,6 @@
     "_site/posts/요청부터-응답까지/index.html",
     "_site/posts/요청부터-응답까지",
     "_site/posts/2025-01-17-요청부터-응답까지/index.html",
-    "_site/posts/2025-01-17-요청부터-응답까지",
-    "_config.yml",
     "_posts/2025-01-08-Obsidian과-Github-Blog-연동하기.md",
     "2025-01-17-Spring-WebMVC.md",
     "_posts/2025-01-14-멀티모듈-with-gradle.md",
@@ -215,7 +231,6 @@
     "2025-01-08-zzz.md",
     "das.md",
     "_site/das.md",
-    "_site/무제 파일.md",
-    "2025-01-08-dasd.md"
+    "_site/무제 파일.md"
   ]
 }
