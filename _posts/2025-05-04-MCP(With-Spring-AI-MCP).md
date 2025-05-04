@@ -1,15 +1,17 @@
 ---
 title: 2025-05-04-MCP(With-Spring-AI-MCP)
 date: 2025-05-04
-categories: 
+categories: Spring AI
 tags:
+  - Spring
+  - AI
 toc: true
 pin: true
-sitemap :
-  changefreq : daily
-  priority : 1.0
+sitemap:
+  changefreq: daily
+  priority: 1
 image:
-  path: 
+  path:
 ---
 ![](assets/img/posts/2025-05-04-MCP(With-Spring-AI-MCP)/b7c0de8bf7c9c1f244141b87773cde48_MD5.jpeg)
 ## MCP란
